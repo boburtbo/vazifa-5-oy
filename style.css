@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+
+.nom{
+    display: flex;
+    color: rgb(0, 0, 0);
+padding: 10px;
+margin: 200px;
+background-color: rgb(75, 200, 125);
+cursor: -webkit-grabbing;
+}
+
+.nom:hover{
+    background-color: brown;
+}
